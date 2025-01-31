@@ -1,0 +1,46 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      },
+      {
+        "id": 2,
+        "name": "Bad Omens",
+        "genre": "Metalcore",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb5d4b995885f2d687bb5c48ac"
+      },
+      {
+        "id": 3,
+        "name": "Metallica",
+        "genre": "Heavy Metal",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44"
+      },
+      {
+        "id": 4,
+        "name": "Billie Eilish",
+        "genre": "Pop Alternativo",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
+      },
+      {
+        "id": 5,
+        "name": "Slipknot",
+        "genre": "Heavy Metal",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182"
+      },
+      {
+        "id": 6,
+        "name": "Twenty One Pilots",
+        "genre": "Rock Alternativo",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5"
+      },
+      {
+        "id": 7,
+        "name": "blink-182",
+        "genre": "Punk Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a"
+      }
+    ]
+  }
